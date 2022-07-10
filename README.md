@@ -1,5 +1,4 @@
-## Oi, eu sou o Arthur!
-- Tenho 17 anos e sou iniciante no ramo da programação, com intuito em aprender e melhorar a cada dia nessa área.✅
+## Oi, eu sou o Arthur! Tenho 17 anos e sou iniciante no ramo da programação, com intuito em aprender e melhorar a cada dia nessa área.✅
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLucass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
