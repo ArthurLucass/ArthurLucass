@@ -1,6 +1,6 @@
 ## Oi, eu sou o Arthur! 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://arthurlucass.github.io/ArthurLucas-Portfolio/)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLucass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLucass&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
