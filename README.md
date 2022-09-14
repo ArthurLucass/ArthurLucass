@@ -1,5 +1,5 @@
 ## Oi, eu sou o Arthur! 
-https://www.fabricadecodigo.com/json-server/
+
 <div align="center">
   <a href="https://arthurlucass.github.io/ArthurLucas-Portfolio/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLucass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
