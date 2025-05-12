@@ -19,4 +19,4 @@
 
 📫 Vamos conversar?  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/arthurlucass/)  
-📧 artxcontato@outlook.com
+[Meu site - DevArtx](https://devartx.com)
