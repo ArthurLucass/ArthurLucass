@@ -12,11 +12,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
 
-### 🚀 Projetos em destaque
-- **MenuProject**: Cardápio digital com pedidos via WhatsApp
-- **Curso Next.js**: Estudo prático com React + Next
-- **Desafio 200 Depósitos**: Lógica com JavaScript puro
-
 📫 Vamos conversar?  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/arthurlucass/)  
 [Meu site - DevArtx](https://devartx.com)
