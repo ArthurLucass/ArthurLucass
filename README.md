@@ -1,17 +1,78 @@
-## 👋 Olá! Eu sou o Arthur
+# Arthur Lucas 👨‍💻
 
-💻 Desenvolvedor Front-end | React, Next.js, TypeScript & Automação  
-🎯 Apaixonado por transformar ideias em interfaces inteligentes  
-🌱 Em constante evolução, sempre explorando IA, n8n e novas techs  
+> Full-Stack Developer focado em produtos modernos, IA e experiências performáticas.
 
-### 🧰 Tecnologias
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
+Desenvolvedor com experiência em aplicações web modernas utilizando **React.js, Next.js, TypeScript e Node.js**.
 
-📫 Vamos conversar?  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/arthurlucass/)  
-[Meu site - DevArtx](https://devartx.com)
+Atualmente atuando no desenvolvimento de plataformas com integração de IA, dashboards analíticos, automações e interfaces escaláveis.
+
+---
+
+## 🚀 Sobre mim
+
+- 💻 Desenvolvedor Full-Stack
+- ⚡ Foco em performance, UX e arquitetura moderna
+- 🤖 Experiência com integrações de IA (OpenAI, Claude API)
+- 📱 Desenvolvimento Web, SaaS e Mobile
+- 🎯 Interesse em produtos digitais e automações inteligentes
+
+---
+
+## 🧠 Tecnologias
+
+### Front-end
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+
+### Banco de Dados & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+
+---
+
+## 💼 Experiência
+
+### 🔹 Kiara A.I.
+Desenvolvimento de interfaces modernas para plataforma de IA, integração com modelos generativos e monitoramento de tarefas em tempo real.
+
+### 🔹 DNA de Vendas
+Criação de dashboards analíticos e integração com serviços Google para ingestão e análise de dados utilizando IA.
+
+### 🔹 Sabor On
+Desenvolvimento de soluções digitais voltadas para experiência do usuário e presença online.
+
+### 🔹 FocusStud
+Participação em projetos web modernos com foco em performance e usabilidade.
+
+---
+
+## 📚 Atualmente estudando
+
+- Arquitetura SaaS
+- Inteligência Artificial aplicada
+- Escalabilidade de aplicações
+- React Native & Expo
+
+---
+
+## 🌎 Contato
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://www.devartx.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arthurlucass/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ArthurLucass)
+
+---
+
+⭐ Sempre aberto para networking e novas oportunidades.
