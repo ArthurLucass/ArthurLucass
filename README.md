@@ -40,7 +40,7 @@ Atualmente atuando no desenvolvimento de plataformas com integração de IA, das
 
 ---
 
-## 💼 Experiência
+## 💼 Experiência & Projetos
 
 ### 🔹 Kiara A.I.
 Desenvolvimento de interfaces modernas para plataforma de IA, integração com modelos generativos e monitoramento de tarefas em tempo real.
@@ -48,12 +48,15 @@ Desenvolvimento de interfaces modernas para plataforma de IA, integração com m
 ### 🔹 DNA de Vendas
 Criação de dashboards analíticos e integração com serviços Google para ingestão e análise de dados utilizando IA.
 
-### 🔹 Sabor On
-Desenvolvimento de soluções digitais voltadas para experiência do usuário e presença online.
+### 🔹 SaborOn
+Plataforma SaaS de gestão para restaurantes com módulos de cardápio digital, pedidos online, delivery, controle de colaboradores e administração de estabelecimentos.
+
+Desenvolvimento de interfaces modernas e escaláveis utilizando React, Vite e Supabase, além de integrações com Stripe para gerenciamento de assinaturas e fluxo SaaS.
 
 ### 🔹 FocusStud
-Participação em projetos web modernos com foco em performance e usabilidade.
+Aplicação de gerenciamento de estudos baseada em contingency management, utilizando regras compostas (AND/OR) para desbloqueio de recompensas e acompanhamento inteligente de progresso.
 
+Desenvolvimento de dashboard interativo com timers, sistema visual de regras aninhadas, insights semanais, gráficos e autenticação segura utilizando Next.js, TypeScript e Supabase com Row Level Security.
 ---
 
 ## 📚 Atualmente estudando
