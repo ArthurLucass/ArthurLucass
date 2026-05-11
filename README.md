@@ -57,6 +57,7 @@ Desenvolvimento de interfaces modernas e escaláveis utilizando React, Vite e Su
 Aplicação de gerenciamento de estudos baseada em contingency management, utilizando regras compostas (AND/OR) para desbloqueio de recompensas e acompanhamento inteligente de progresso.
 
 Desenvolvimento de dashboard interativo com timers, sistema visual de regras aninhadas, insights semanais, gráficos e autenticação segura utilizando Next.js, TypeScript e Supabase com Row Level Security.
+
 ---
 
 ## 📚 Atualmente estudando
